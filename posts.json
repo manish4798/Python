@@ -1,0 +1,46 @@
+[
+  {
+    "title": "My Updated Post",
+    "content": "My first updated post!\r\n\r\nThis is exciting!",
+    "user_id": 1
+  },
+  {
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 2
+  },
+  {
+    "title": "Top 5 Programming Lanaguages",
+    "content": "JAVA\n\nMYSQL\n\nJAVASCRIPT\n\nPYTHON \n\nC++  ",
+    "user_id": 1
+  },
+
+  {
+    "title": "Best Python IDEs",
+    "content": " pycharm\n\nsypder\n\npydev\n\nvisual studio\n\nsublime text",
+    "user_id": 1
+  },
+
+
+  {
+    "title": "The Rise of Data Science",
+    "content": "Organizations are finding it equally challenging to find skilled data scientists as they are having difficulty understanding which information sources provide the best input for artificial intelligence-driven analysis.\n\nThis environment has created a conundrum for artificial intelligence and machine learning vendors. Experts forecast that the data scientist shortage will increase by nearly 30-percent by the year 2020. While colleges and universities are working to close the gap, the need for these talented professionals is outpacing the demand for skilled talent.\n\nAdditionally, the role of the data scientist has yet to be clearly defined. This is due, in part, because data scientists’ roles are as unique as the organizations that employ their services.",
+    "user_id": 2
+  },
+  {
+    "title": "Best Videos For Learning Python",
+    "content": "new boston.\n\nw3schools\n\nsanfoundary",
+    "user_id": 1
+  },
+
+  {
+    "title": "Top 5 YouTube Channels For Learning Programming",
+    "content": "1.programming knowledge\n\n2.Treehouse\n\n3.Learncode.academy\n\n4.new boston\n\n5.derek banas",
+    "user_id": 2
+  },
+  {
+    "title": "My Latest Updated Post",
+    "content": "my first django based project",
+    "user_id": 1
+  }
+]
